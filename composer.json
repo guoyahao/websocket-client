@@ -15,6 +15,7 @@
       "Swofttrace\\WebSocket\\client\\": "src/"
     }
   },
+  "minimum-stability": "dev",
   "repositories": {
     "packagist": {
       "type": "composer",

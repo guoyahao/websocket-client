@@ -1,31 +1,21 @@
 {
-  "name": "swofttrace/websocket-client",
-  "type": "library",
-  "keywords": [
+    "name": "swofttrace/websocket-client",
+    "description": "websocket client for swoft",
+    "type": "library",
+	"keywords": [
     "php",
     "swoole",
     "swoft",
     "websocket-client",
     "websocket"
   ],
-  "description": "websocket client for swoft",
-  "license": "Apache-2.0",
-  "autoload": {
-    "psr-4": {
-      "Swofttrace\\WebSocket\\client\\": "src/"
-    }
-  },
-  "minimum-stability": "dev",
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.phpcomposer.com"
-    }
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^5.7"
-  },
-  "scripts": {
-    "test": "./vendor/bin/phpunit"
-  }
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "guoyahao",
+            "email": "515449117@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }

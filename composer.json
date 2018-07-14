@@ -3,12 +3,13 @@
     "description": "websocket client for swoft",
     "type": "library",
 	"keywords": [
-    "php",
-    "swoole",
-    "swoft",
-    "websocket-client",
-    "websocket"
-  ],
+		"php",
+		"swoole",
+		"swoft",
+		"websocket-client",
+		"websocket"
+	],
+	"version": "1.0.0",
     "license": "Apache-2.0",
     "authors": [
         {

@@ -6,7 +6,7 @@
  * Time: 16:01
  */
 
-namespace Swofttrace\Websocket\Client;
+namespace Swofttrace\WebSocket\Client;
 
 
 class WebSocketClient
